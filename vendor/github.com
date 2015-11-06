@@ -1,0 +1,1 @@
+/Users/lucas.caballero/Projects/Go/v1.5/playground/links/github.com
